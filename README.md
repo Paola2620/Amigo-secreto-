@@ -3,4 +3,4 @@ En este repositorio se encuentra mi primer proyecto, llamado "amigo secreto". Es
 
 La estructura de la página se desarrolla en HTML, la interfaz en CSS y la lógica del sorteo en Java. 
 
-Considero iomportante mencionar las funciones clave, que son: validación de entrada, gestión de lista, sorteo aleatorio y mensajes de alerta. 
+Considero importante mencionar las funciones clave, que son: validación de entrada, gestión de lista, sorteo aleatorio y mensajes de alerta. 
